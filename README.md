@@ -9,3 +9,5 @@ The project is ~~exact copy~~ inspired by the article in [JASON Format](https://
 #### Running Locally
 
 To run this locally, I recommend using the Visual Studio Code's Live Server exension but any simple HTTP server would be sufficient that can launch the `index.html`
+
+Live website can be found [here](https://kriyszig.github.io/jsx/) to view the result without running the setup locally.
